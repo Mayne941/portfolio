@@ -9,6 +9,10 @@ Last updated April 2026
 
 Full texts and citation indices may be found at [Google Scholar](https://scholar.google.com/citations?user=nHXKU4gAAAAJ&hl=en).
 
+## Preprints
+1. Kean K, Mayne R, Reid K, Secret S, Singleton B, Rockett R, et al. A snapshot of the UK blood donor plasma virome: a retrospective cross-sectional cohort study. medrXiv 2026
+1. Mayne R, Fiford C, Asadi R, Bolarinwa B, Fagbemi N, Kean K, et al. Integrating patient and public engagement into biomedical laboratory research: reflections, best practices and measuring impact from a Blood and Transplant Research Unit. medrXiv 2026
+
 ## Peer Reviewed Articles, Primary/Joint Primary Author
 1.  Mayne R, Smith D, Brown K, Chen Y, Firth A, Katayama K, et al.  Comprehensive hallmark gene
 sequence,  genomic  and  structural  analysis  of  Picornavirales  viruses  clarifies  new  and  existing  taxa. 
@@ -49,12 +53,9 @@ ligent  behaviour  in  slime  mould  Physarum  polycephalum.   Communicative  an
 1.  Mayne R, Adamatzky A. Towards Hybrid Nanostructure-Slime Mould Devices. Nano LIFE. 2015;5(1):140007
 1.  Mayne  R,  Adamatzky  A.   Slime  mould  foraging  behaviour  as  optically  coupled  logical  operations.
 International Journal of General Systems. 2015;44(3):305–313
- 1
-
 1.  Mayne R, Patton D, Costello BDL, Adamatzky A, Patton RC. On the Internalisation, Intraplasmodial
 Carriage and Excretion of Metallic Nanoparticles in the Slime Mould, Physarum Polycephalum. Inter-
 national Journal of Nanotechnology and Molecular Computation. 2011;3(3):1–14
-Books (Primary Author / Editor)
 
 ## Books
 1.  Mayne R, den Toonder J, editors. Atlas of Cilia Bioengineering and Biocomputation. River Publishers;

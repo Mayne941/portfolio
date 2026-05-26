@@ -48,7 +48,7 @@ Professional memberships
 ======
 * Fellow of Institute of Biomedical Sciences
 * Fellow of Linnean Society
-* ICTV Taxonomy Proposal Summary Consortium
+* International Committee on Taxonomy of Viruses Taxonomy Proposal Summary Consortium
 
 Languages
 =====
